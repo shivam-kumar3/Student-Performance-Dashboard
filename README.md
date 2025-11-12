@@ -93,7 +93,8 @@ BCC1, BCC2, BCC3, BCC4, BCC5, BCC6 (Marks out of 100)
 Calculated Percentage
 
 Dashboard Preview:
-![Dashboard Preview]([[dashboard_screenshot.png](https://github.com/shivam-kumar3/Student-Performance-Dashboard/blob/main/Dashboard%20Preview.jpeg)](https://github.com/shivam-kumar3/Student-Performance-Dashboard/blob/main/Dashboard%20Preview.jpeg?raw=true))
+![Dashboard Preview](https://github.com/shivam-kumar3/Student-Performance-Dashboard/blob/main/Dashboard%20Preview.jpeg?raw=true)
+
 
 Keywords
 
