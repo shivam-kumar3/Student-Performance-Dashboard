@@ -1,4 +1,4 @@
-Student Performance Dashboard – Power BI
+# Student Performance Dashboard – Power BI
 Overview
 
 This Power BI dashboard provides an interactive and data-driven analysis of student performance across six subjects (BCC1–BCC6).
@@ -92,9 +92,8 @@ BCC1, BCC2, BCC3, BCC4, BCC5, BCC6 (Marks out of 100)
 
 Calculated Percentage
 
-Dashboard Preview
-
-![Dashboard Preview]([dashboard_screenshot.png](https://github.com/shivam-kumar3/Student-Performance-Dashboard/blob/main/Dashboard%20Preview.jpeg))
+Dashboard Preview:
+![Dashboard Preview]([[dashboard_screenshot.png](https://github.com/shivam-kumar3/Student-Performance-Dashboard/blob/main/Dashboard%20Preview.jpeg)](https://github.com/shivam-kumar3/Student-Performance-Dashboard/blob/main/Dashboard%20Preview.jpeg?raw=true))
 
 Keywords
 
